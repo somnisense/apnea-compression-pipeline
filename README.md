@@ -133,4 +133,6 @@ Code: **MIT**. Patent rights are not granted by this license — see *Patent not
 
 Built and maintained by [**SomniAI LLC**](https://github.com/somnisense). The production app (SomniSense, Wellness category) that uses this pipeline runs on-device on **iOS and Android**: → **[somnisense.top](https://www.somnisense.top)**.
 
+Research & validation hub: **[apneasense.com/research](https://apneasense.com/research)**.
+
 Questions: `service@somnisense.top`.
